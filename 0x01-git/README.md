@@ -1,1 +1,1 @@
-My first readme
+bash/school
